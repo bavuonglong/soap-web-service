@@ -1,0 +1,1 @@
+Access http://localhost:8080/service/studentDetailsWsdl.wsdl to verify server is running properly
